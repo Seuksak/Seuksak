@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header" />
 
----
-
 ### Skills
 
 <p align="left">
@@ -15,11 +13,22 @@
 
 ---
 
-### PC
-<img src = "https://img.shields.io/badge/NVIDIA-RTX 3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src = "https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+### Tools
+<p align="left">
+  <img src = "https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge" />
+  <img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" />
+  <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+  <img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seuksak&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seuksak&show_icons=true&theme=radical&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seuksak&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradientm&height=100&section=footer" />
